@@ -25,9 +25,9 @@ Download the three model files from Google Drive before running the scripts:
 
 | Model | Link |
 |-------|------|
-| U-Net Grains | https://drive.google.com/file/d/1p20k7MoDK3uSMsntd77F0f_6TMJ4fuAO/view?usp=drive_link |
-| Mask R-CNN Grains | https://drive.google.com/file/d/1mplGIrgKFumBl1wXMaVcgbRjhBOgsp30/view?usp=drive_link |
-| U-Net Porosity | https://drive.google.com/file/d/1aZar1y3bLAR58Tdd5rcNn9-TPiXnCQlM/view?usp=drive_link |
+| U-Net Grains | https://drive.google.com/file/d/1hXO03S1T2tBOyJrQUzswI8ljCVAwzKcC/view?usp=drive_link |
+| Mask R-CNN Grains | https://drive.google.com/file/d/1ia19gR4xkKdhWIkzqqAQW8LHghsJrWtC/view?usp=drive_link |
+| U-Net Porosity | https://drive.google.com/file/d/15k1Y1RobGp0QSXbjSayfV2nhPjYx0tYq/view?usp=sharing |
 
 ---
 
